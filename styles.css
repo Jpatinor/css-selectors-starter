@@ -80,7 +80,7 @@ styles {
     select the body by its tag name
 */
 /* ----- */
-body{
+body {
     box-sizing: border-box;
     background-color: var(--lt-gray);
 }
